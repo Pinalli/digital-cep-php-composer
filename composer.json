@@ -1,23 +1,17 @@
 {
-  "name": "betop/digital-cep-php-composer",
-  "description": "Busca de CEP online",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Alberto Rocha Pinalli",
-      "email": "betopinalli@gmail.com"
-    }
-  ],
-  "minimum-stability": "stable",
-  "require": {
-    "php": ">=7.2.0"
-  },
-  "autoload": {
-    "psr-0": {
-      "Search": "src/"
+    "name": "betop/packagist",
+    "autoload": {
+        "psr-4": {
+            "Betop\\Packagist\\": "src/"
+        }
     },
-    "psr-4": {
-      "Search\\DigitalCep\\": "src/"
+    "authors": [
+        {
+            "name": "Alberto Rocha Pinalli",
+            "email": "betopinalli@gmail.com"
+        }
+    ],
+    "require": {
+        "betop/digital-cep-php-composer": "^1.0"
     }
-  }
 }
