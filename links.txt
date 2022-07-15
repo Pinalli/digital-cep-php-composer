@@ -1,1 +1,11 @@
 https://github.com/squizlabs/PHP_CodeSniffer
+
+https://phpunit.readthedocs.io/en/9.5/#
+
+http://br.phptherightway.com/
+
+
+============Framework===============
+https://laravel.com/
+
+https://lumen.laravel.com/docs/9.x
