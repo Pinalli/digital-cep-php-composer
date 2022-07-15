@@ -1,4 +1,4 @@
 Search
- [ ] Get address from zipcode default usage with data set "Endereço Paraça da Sé"
+ [ ] Get address from zipcode default usage with data set "Endereço Praça da Sé"
  [ ] Get address from zipcode default usage with data set "Endereço Qualquer"
 

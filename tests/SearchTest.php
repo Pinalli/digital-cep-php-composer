@@ -17,7 +17,7 @@ class SearchTest extends TestCase{
 
     public function dadosTeste(){
         return [
-            "Endereço Paraça da Sé" => [
+            "Endereço Praça da Sé" => [
                 "01001000",
                 [
                     "cep" => "01001-000",
@@ -43,6 +43,7 @@ class SearchTest extends TestCase{
                     "unidade" => "",
                     "ibge" => "3550308",
                     "gia" => "1004"
+                    
                 ]
             ]
         ];

@@ -1,0 +1,9 @@
+
+show errors
+./vendor/bin/phpcs src/ --standard=PSR12
+
+fix errors
+./vendor/bin/phpcbf src/ --standard=PSR12
+
+
+./vendor/bin/phpcbf src/ --standard=Zend 
