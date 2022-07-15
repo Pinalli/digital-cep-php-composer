@@ -2,6 +2,8 @@
 
 namespace Search\DigitalCep;
 
+use Search\DigitalCep\ws\ViaCep;
+
 class Search
 {
     private $url = 'https://viacep.com.br/ws/';
