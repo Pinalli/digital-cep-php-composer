@@ -1,0 +1,4 @@
+php artisan make:controller Usuario
+
+===ativa o server====
+php artisan serve 
